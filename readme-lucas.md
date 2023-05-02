@@ -13,4 +13,5 @@ Here are 10 new lines that I am adding to this file as part of the exercise:
 7. I am always happy to hear from fellow developers and users.
 8. Thank you for taking the time to read my readme file.
 9. I hope you enjoy using my project as much as I enjoyed building it.
-10. Have a great day!
+10. Wish you the best day!
+11.
