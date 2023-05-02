@@ -1,4 +1,4 @@
-# ArchitectureGIT
+# My Readme File
 
 Hello world, this is my readme file.
 
@@ -9,6 +9,8 @@ Here are 10 new lines that I am adding to this file as part of the exercise:
 3. In this file, I will explain the purpose of my project.
 4. I will also describe the different features of my project.
 5. Additionally, I will provide instructions on how to use my project.
-
-Hello Team, this text was added by James Bekhit in an effort to pass this semester
-Hi guys, test from Lucas Jakubeit!
+6. If you have any questions or feedback, please feel free to contact me.
+7. I am always happy to hear from fellow developers and users.
+8. Thank you for taking the time to read my readme file.
+9. I hope you enjoy using my project as much as I enjoyed building it.
+10. Have a great day!
