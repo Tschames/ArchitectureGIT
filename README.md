@@ -11,3 +11,4 @@ Here are 10 new lines that I am adding to this file as part of the exercise:
 5. Additionally, I will provide instructions on how to use my project.
 
 Hello Team, this text was added by James Bekhit in an effort to pass this semester
+Hi guys, test from Lucas Jakubeit!
